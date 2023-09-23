@@ -1,5 +1,6 @@
 # _**Claudio San Roman**_
-## _**Estudante de Dev**_ :technologist
+## _**Estudante de Dev**_   
+🚧
 
 [Meu GitHub](https://github.com/Claudiosan86)
 
