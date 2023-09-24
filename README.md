@@ -1,8 +1,10 @@
-# _**Claudio San Roman**_
-## _**Estudante de Dev**_   
+ # _**Claudio San Roman**_ 
+🎇 ## _**Estudante de Dev**_   🎇
+***
 🚧
 
-[Meu GitHub](https://github.com/Claudiosan86)
+* [Meu GitHub](https://github.com/Claudiosan86)
+* [Meu Linkedin](https://www.linkedin.com/in/claudio-san-roman-5923417b/)
 
 <!--
 **Claudiosan86/Claudiosan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
