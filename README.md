@@ -1,26 +1,27 @@
 # Olá! 👋
 
 Sou estudante e profissional em **Infraestrutura de Cloud**, com foco em **DevOps e automação**.  
-Estou aprendendo ferramentas de **CI/CD, contêineres e Docker**, e buscando melhorar minhas habilidades para criar processos eficientes e escaláveis.
+Apaixonado por aprender novas tecnologias e criar processos eficientes e escaláveis.
 
 ---
 
-💡 **Estudando e desenvolvendo:**
-- Computação em nuvem (AWS, Azure)
-- Automação de infraestrutura
-- CI/CD e integração de processos
-- Contêineres e Docker
+💡 **Atualmente estudando e desenvolvendo:**  
+- ☁️ Computação em nuvem (AWS, Azure)  
+- 🤖 Automação de infraestrutura  
+- 🔄 CI/CD e integração de processos  
+- 🐳 Contêineres e Docker  
 
 ---
 
 🚀 **Objetivo:**  
-Evoluir em DevOps e automação, aplicando conhecimentos de Cloud para construir soluções tecnológicas que gerem impacto real.
+Evoluir em DevOps e automação, aplicando conhecimentos de Cloud para construir **soluções tecnológicas de impacto real**.
 
 ---
 
-🌐 **Meus perfis:**
-- [GitHub](https://github.com/seu-usuario)  
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+🌐 **Meus perfis:**  
+- [GitHub](https://github.com/Claudiosan86)  
+- [LinkedIn](https://www.linkedin.com/in/claudio-san-roman)
 
-💬 **Contato:** você pode me chamar pelo LinkedIn ou por email: seu-email@exemplo.com  
-⚡ **Curiosidade:** Apaixonado por aprender novas tecnologias e otimizar processos com automação.
+💬 **Contato:** sinta-se à vontade para me chamar no LinkedIn ou por email: claudio.sanroman23@gmail.com  
+⚡ **Curiosidade:** Adoro explorar novas tecnologias e otimizar processos com criatividade!
+
