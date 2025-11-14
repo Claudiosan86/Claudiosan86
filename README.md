@@ -5,7 +5,9 @@
 <h1 align="center">👋 Olá! Eu sou Claudio San Roman Rangel</h1>
 
 <p align="center">
-  Profissional de Infraestrutura | Cloud (AWS & Azure) | DevOps em Evolução  
+  Profissional de Infraestrutura | Cloud (AWS & Azure) | DevOps em Evolução
+  
+  ![Minha Foto](./IMG_20250822_182649.jpg)  
 </p>
 
 ---
