@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="COLOQUE_AQUI_O_LINK_DA_FOTO" width="180" style="border-radius: 50%;" />
+  <img src="./Claudiosan86" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Claudio San Roman Rangel</h1>
 
 <p align="center">
-  <strong>Profissional de Infraestrutura | Cloud (AWS & Azure) | DevOps em Evolução</strong><br>
-  <img src="./Claudiosan86.jpg" alt="Minha Foto">
+  <strong>Profissional de Infraestrutura | Cloud (AWS & Azure) | DevOps em #Evolução</strong><br>
+ # <img src="./Claudiosan86.jpg" #alt="Minha Foto">
 </p>
 
 ---
