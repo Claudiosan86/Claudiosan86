@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Profissional de Infraestrutura | Cloud (AWS & Azure) | DevOps em
   Evolução</strong><br>
- <img src="./Claudiosan86" width="180" style="border-radius: 50%;" />
+ <img src="./Claudiosan86.jpg" width="180" style="border-radius: 50%;" />
  
 </p>
 
