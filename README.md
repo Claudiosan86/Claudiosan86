@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./Claudiosan86.jpg" width="180" style="border-radius: 50%;" />
-</p>
+
+
 
 <h1 align="center">👋 Olá! Eu sou Claudio San Roman Rangel</h1>
 
