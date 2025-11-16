@@ -53,7 +53,7 @@ Estou evoluindo minha carreira para **DevOps**, aplicando práticas modernas com
 ## 📂 Projetos em Destaque
 
 ### 📌 **1. Infra AWS com Terraform**  
-📁 Repositório: *em criação*
+📁 Repositório: [infra-aws-terraform] (https://github.com/Claudiosan86/infra-aws-terraform)
 
 ### 📌 **2. Pipeline CI/CD com Docker + GitHub Actions**  
 📁 Repositório: *em criação*
