@@ -58,8 +58,11 @@ Estou evoluindo minha carreira para **DevOps**, aplicando práticas modernas com
 ### 📌 **2. Pipeline CI/CD com Docker + GitHub Actions**  
 📁 Repositório: *em criação*
 
-### 📌 **3. Automação Azure via CLI**  
-📁 Repositório: *em criação*
+### 📌 **3. Automação de Infraestrutura Efêmera (Azure CLI)**  
+📁 Repositório: [azure-automation-cli] (https://github.com/Claudiosan86/azure-automation-cli)
+📝 Descrição: Automação completa para provisionamento e destruição de ambientes de Sandbox (VM, VNet, NSG) voltada para times de Dev/QA. Inclui gestão de segurança via NSG e controle de versão com Tags (v1.0.0).
+
+Status: ✅ Concluído / Estável.
 
 ---
 
