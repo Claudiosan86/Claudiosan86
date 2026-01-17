@@ -1,7 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou Claudio San Roman Rangel</h1>
 
 <p align="center">
-  <strong>Analista de Infraestrutura Cloud N3 | Especialista em Operações Críticas | DevOps em Evolução</strong>
+  <strong>Analista de Infraestrutura Cloud N3 | Especialista em Operações Críticas | DevOps em Evolução</strong><br>
+  <img src="./Claudiosan86.jpg" width="180" style="border-radius: 50%; margin-top: 10px;" />
 </p>
 
 ---
@@ -20,24 +21,15 @@ Atualmente focado em **Cultura DevOps**, implementando soluções de IaC (Terraf
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### ☁ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🐳 DevOps & Containers
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ⚙ Infra & IaC
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 ## 📂 Projetos em Destaque
 
 ### 📌 1. Infra AWS com Terraform
 * **📁 Repositório:** [infra-aws-terraform](https://github.com/Claudiosan86/infra-aws-terraform)
 * **📝 Descrição:** Provisionamento de infraestrutura escalável na AWS utilizando Terraform.
+
+### ⚡ 2. Pipeline CI/CD com Docker + GitHub Actions
+* **📁 Repositório:** *Em desenvolvimento (Próxima etapa)*
+* **📝 Descrição:** Implementação de pipeline automatizada para deploy de aplicações containerizadas.
 
 ### 🚀 3. Automação de Infraestrutura Efêmera (Azure CLI)
 * **📁 Repositório:** [azure-automation-cli](https://github.com/Claudiosan86/azure-automation-cli)
