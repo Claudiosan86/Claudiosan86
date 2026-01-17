@@ -59,9 +59,10 @@ Estou evoluindo minha carreira para **DevOps**, aplicando práticas modernas com
 📁 Repositório: *em criação*
 
 ### 🚀 3. Automação de Infraestrutura Efêmera (Azure CLI)
+
 * **📁 Repositório:** [azure-automation-cli](https://github.com/Claudiosan86/azure-automation-cli)
-* **📝 Descrição:** Automação completa para provisionamento e destruição de ambientes de Sandbox (VM, VNet, NSG) voltada para times de Dev/QA. Foco em agilidade operacional e redução de custos.
-* **🛠️ Tech Stack:** Bash Script, Azure CLI, Git (Versioning).
+* **📝 Descrição:** Automação completa para provisionamento e destruição de ambientes de Sandbox (VM, VNet, NSG) voltada para times de Dev/QA.
+* **🛠️ Tech Stack:** Bash Script, Azure CLI, Git.
 * **✅ Status:** Concluído / Estável (v1.0.0).
 
 ---
