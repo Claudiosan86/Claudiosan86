@@ -9,15 +9,15 @@
 
 ## 🚀 Sobre mim
 
-Profissional com **mais de 15 anos de experiência** em Infraestrutura e Cloud, especializado na administração de ambientes corporativos críticos, redes e segurança. Experiência consolidada no Itamaraty (MRE) e atualmente focado em automação na Clique Retire.
+Profissional com **mais de 15 anos de experiência** em Infraestrutura e Cloud, especializado na administração de ambientes corporativos críticos, redes e segurança. Especialista em sustentação de alta disponibilidade e mitigação de riscos em infraestruturas complexas.
 
-Atualmente focado em **Cultura DevOps**, implementando soluções de IaC (Terraform), Containers (Docker/K8s) e automação de processos para ganho de escala e redução de custos.
+Atualmente focado em **Cultura DevOps**, implementando soluções de IaC (Terraform), Containers (Docker/K8s) e automação de processos via CLI para otimização de custos e escalabilidade.
 
 💼 **Expertise Técnica:**
 - **Cloud (AWS & Azure):** VPC/VNet, IAM, EC2, S3, Security Groups e automação via CLI.
 - **Infraestrutura como Código (IaC):** Terraform e Ansible.
 - **Redes e Segurança:** Fortigate, Cisco, Ativos de Rede e monitoramento avançado com Zabbix.
-- **Operações:** Liderança técnica de incidentes e sustentação de ambientes de alta disponibilidade.
+- **Operações:** Liderança técnica de incidentes e gestão de infraestrutura escalável.
 
 ---
 
@@ -28,7 +28,7 @@ Atualmente focado em **Cultura DevOps**, implementando soluções de IaC (Terraf
 * **📝 Descrição:** Provisionamento de infraestrutura escalável na AWS utilizando Terraform.
 
 ### ⚡ 2. Pipeline CI/CD com Docker + GitHub Actions
-* **📁 Repositório:** *Em desenvolvimento (Próxima etapa)*
+* **📁 Repositório:** *Em desenvolvimento (Iniciando agora)*
 * **📝 Descrição:** Implementação de pipeline automatizada para deploy de aplicações containerizadas.
 
 ### 🚀 3. Automação de Infraestrutura Efêmera (Azure CLI)
