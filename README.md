@@ -28,8 +28,10 @@ Atualmente focado em **Cultura DevOps**, implementando soluções de IaC (Terraf
 * **📝 Descrição:** Provisionamento de infraestrutura escalável na AWS utilizando Terraform.
 
 ### ⚡ 2. Pipeline CI/CD com Docker + GitHub Actions
-* **📁 Repositório:** *Em desenvolvimento (Iniciando agora)*
-* **📝 Descrição:** Implementação de pipeline automatizada para deploy de aplicações containerizadas.
+* **📁 Repositório:** [projeto-cicd-docker](https://github.com/Claudiosan86/projeto-cicd-docker)
+* **📝 Descrição:** Automação completa do ciclo de vida de uma aplicação containerizada. A esteira realiza o build automático da imagem, autenticação segura via Secrets e push para o Docker Hub a cada commit na branch main.
+* **🛠️ Tecnologias:** Docker, GitHub Actions, Docker Hub e Python.
+* **✅ Status:** Concluído e validado com ambiente local via `docker run`.
 
 ### 🚀 3. Automação de Infraestrutura Efêmera (Azure CLI)
 * **📁 Repositório:** [azure-automation-cli](https://github.com/Claudiosan86/azure-automation-cli)
